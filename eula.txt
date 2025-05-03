@@ -1,0 +1,98 @@
+## 📜 End User License Agreement (EULA) for Nex Mod
+
+**Last Updated:** \[04-05-2025]
+**Effective From:** Upon User Consent
+
+---
+
+### 1. **Acceptance of Terms**
+
+By installing, using, or interacting with the *Nex Mod* ("the Mod"), you agree to be bound by the terms of this End User License Agreement (EULA). If you do not agree, do not install or use the Mod.
+
+Consent is formally given when the user runs the `/nex-config start` command and accepts the EULA through the prompted consent mechanism.
+
+---
+
+### 2. **License Grant**
+
+We grant you a non-exclusive, non-transferable, revocable license to use this Mod solely for personal, non-commercial use in accordance with this EULA.
+
+---
+
+### 3. **Data Collection and Usage**
+
+By using this Mod, you consent to the collection and processing of the following information:
+
+* Your in-game UUID and gamertag
+* Chat messages you send while using the Mod
+* Configuration data relevant to the Mod’s functionality
+* Basic diagnostics and performance logs
+
+**Purpose of Collection:**
+
+* Improve the Mod’s functionality
+* Train AI models and power features
+* Analyze user interaction to improve user experience
+* Potential future sale of aggregated, anonymized chat data for AI training or analysis
+
+**Third-Party Services:**
+This Mod utilizes **Google Gemini** and **Cloudflare Workers**, which may also process user data under their respective privacy policies.
+
+---
+
+### 4. **User Consent and Logging**
+
+Your acceptance of this EULA is recorded along with:
+
+* The hash of this EULA version
+* Your UUID
+* Gamertag (where available)
+* Timestamp of acceptance
+
+If the EULA is updated in the future, you will be required to re-accept it to continue using the Mod.
+
+---
+
+### 5. **User Rights**
+
+You have the right to:
+
+* Request a copy of data associated with your UUID
+* Withdraw your consent at any time, by deleting the mod and not using it.
+* Contact the developer for data deletion or support
+
+---
+
+### 6. **Limitations**
+
+You may not:
+
+* Reverse-engineer, modify, or redistribute this Mod without explicit permission
+* Use the Mod to harm, exploit, or harass others
+
+---
+
+### 7. **Termination**
+
+This EULA remains in effect until terminated. We may terminate or suspend access without notice if you violate any terms.
+
+---
+
+### 8. **Disclaimer and Limitation of Liability**
+
+This Mod is provided "AS IS", with no warranties of any kind. We are not liable for any damages or loss arising from its use.
+
+---
+
+### 9. **Jurisdiction**
+
+This EULA is governed by and construed in accordance with the laws of India. You agree to submit to the jurisdiction of the courts in Goa, India, for any dispute resolution.
+
+---
+
+### 10. **Contact**
+
+For inquiries related to this EULA, data requests, or support, contact:
+📧 **[ayusin439@gmail.com](mailto:ayusin439@gmail.com)**
+
+---
